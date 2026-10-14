@@ -3,4 +3,3 @@ google-genai>=2.30.1
 streamlit>=1.40.0
 pandas>=2.2.0
 python-dotenv>=1.0.0
-
